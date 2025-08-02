@@ -1,6 +1,6 @@
 # Dart CLI Quiz App
 
-This is a simple command-line quiz application built using Dart as part of Week 1 of my Flutter Bootcamp. The project was designed to reinforce core Dart programming concepts through a practical and interactive console-based application.
+This is a simple command-line quiz application built using Dart. The project was designed to reinforce core Dart programming concepts through a practical and interactive console-based application.
 
 ## Features
 
